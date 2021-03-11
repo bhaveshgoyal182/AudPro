@@ -16,8 +16,11 @@ div{
     margin: 5px;
 }
 @media (min-width:680px){
+    h1{
+        margin-top: 50px;
+    }
     div{
-        margin-top: 18%;
+        margin-top: 15%;
     }
     #regards{
         margin-top: 150px;
