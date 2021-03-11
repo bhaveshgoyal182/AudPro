@@ -10,6 +10,7 @@ var divH = document.getElementById('H');
 var divJ = document.getElementById('J');
 var divK = document.getElementById('K');
 var divL = document.getElementById('L');
+
 var openhat = new Audio("./Audios/openhat.wav");
 var boom = new Audio("./Audios/boom.wav");
 var clap = new Audio("./Audios/clap.wav");
